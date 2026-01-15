@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monu20021128&label=Profile%20views&color=0e75b6&style=flat" alt="monu20021128" /> </p>
 
-- 🌱 I’m currently learning **Selenium with Java, TestNG, POM Framework**
+- 🌱 I’m currently practicing  **Selenium with Java, TestNG, POM Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/monu20021128](https://github.com/monu20021128)
 
